@@ -1,2 +1,2 @@
 # Rozvad-
-Sestavení rozvaděče.
+Sestavení
