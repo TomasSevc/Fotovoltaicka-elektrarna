@@ -1,0 +1,2 @@
+# Rozvad-
+Sestavení rozvaděče.
