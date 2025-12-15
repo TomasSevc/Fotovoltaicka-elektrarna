@@ -6,12 +6,6 @@ Cílem tohoto projektu je navrhnout a popsat fotovoltaický systém s bateriov
 
 ---
 
-## Schéma zapojení
-
-> *(Ilustrační schéma – může obsahovat nepřesnosti, slouží pouze pro orientaci)*
-
----
-
 ## Použité komponenty
 
 ### Fotovoltaické panely
