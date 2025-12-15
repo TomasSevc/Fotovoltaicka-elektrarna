@@ -96,4 +96,11 @@ Cílem tohoto projektu je navrhnout a popsat fotovoltaický systém s bateriov
 * Uvedení fotovoltaické elektrárny do provozu
 
 ---
+**Poděkování**
+
+Na závěr bych chtěl poděkovat svému otci za přizvání k realizaci projektu fotovoltaického systému,
+možnost nahlédnout do návrhu a praktické realizace a za cenné odborné konzultace, které mi pomohly
+lépe pochopit problematiku fotovoltaických systémů.
+
+Dále děkuji asistenčnímu nástroji ChatGPT za pomoc při formulaci textů a strukturování projektu.
 
