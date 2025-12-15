@@ -1,2 +1,1 @@
-# Rozvaděč
-Sestavení
+# Fotovoltaická elektrárna s bateriovým úložištěm
