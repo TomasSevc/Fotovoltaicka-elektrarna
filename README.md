@@ -44,6 +44,7 @@ Cílem tohoto projektu je navrhnout a popsat fotovoltaický systém s bateriov
 ### 1. Příprava objektu
 
 * Kontrola stávající elektroinstalace objektu
+* Ověření možností připojení fotovoltaického systému
 
 ### 2. Montáž nosné konstrukce a panelů
 
@@ -55,6 +56,7 @@ Cílem tohoto projektu je navrhnout a popsat fotovoltaický systém s bateriov
 ### 3. Provedení stejnosměrných (DC) rozvodů
 
 * Realizace DC vedení mezi fotovoltaickými panely a regulátory MPPT
+* Zapojení panelů do čtyř stringů po šesti panelech
 
 ### 4. Instalace regulátorů MPPT
 
@@ -66,7 +68,9 @@ Cílem tohoto projektu je navrhnout a popsat fotovoltaický systém s bateriov
 ### 5. Instalace střídače a regulace výkonu
 
 * Instalace **střídačů Victron MultiPlus II** v technické místnosti
-* Přeměna stejnosměrného napětí na střídavé
+**Slouží k:**
+ 
+* Přeměně stejnosměrného napětí na střídavé
 * Řízení toku energie mezi:
 
   * fotovoltaickými panely
@@ -92,8 +96,4 @@ Cílem tohoto projektu je navrhnout a popsat fotovoltaický systém s bateriov
 * Uvedení fotovoltaické elektrárny do provozu
 
 ---
-
-## Poznámka
-
-Tento dokument je určen jako technický popis projektu a může sloužit jako podklad pro školní práci nebo dokumentaci projektu na platformě GitHub (README.md).
 
