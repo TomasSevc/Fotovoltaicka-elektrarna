@@ -32,6 +32,12 @@ Cílem tohoto projektu je navrhnout a popsat fotovoltaický systém s bateriov
 * Zapojení baterií: **paralelní**
 * Celková kapacita úložiště: **10,8 kWh**
 
+  ### Monitorování a řízení systému
+- 1× Victron Energy Cerbo GX MKII
+  - Funkce: centrální monitorování a řízení FV systému
+  - Sledování výroby, spotřeby a stavu baterií v reálném čase
+  - Možnost vzdáleného přístupu přes Victron Remote Management (VRM)
+
 ### Další komponenty
 
 * DC rozvaděč
@@ -99,8 +105,8 @@ Cílem tohoto projektu je navrhnout a popsat fotovoltaický systém s bateriov
 **Poděkování**
 
 Na závěr bych chtěl poděkovat svému otci za přizvání k realizaci projektu fotovoltaického systému,
-možnost nahlédnout do návrhu a praktické realizace a za cenné odborné konzultace, které mi pomohly
-lépe pochopit problematiku fotovoltaických systémů.
+možnost nahlédnout do návrhu a praktické realizace a za cenné praktické zkušenosti.
+
 
 Dále děkuji asistenčnímu nástroji ChatGPT za pomoc při formulaci textů a strukturování projektu.
 
