@@ -14,6 +14,8 @@ Cílem tohoto projektu je navrhnout a popsat fotovoltaický systém s bateriov
 * Zapojení: **2× (6 + 6) paralelně**
 * Celkový instalovaný výkon: **9,6 kWp**
 
+* https://github.com/user-attachments/files/24242180/2005800014_IBC.MonoSol.400.GS10-HC.Black_Data.sheet.Europe.%2B.Japan_EN-2.3.pdf)
+
 ### Regulace a měniče
 
 * **2 ks** regulátor **MPPT 250 V / 100 A**
@@ -22,6 +24,9 @@ Cílem tohoto projektu je navrhnout a popsat fotovoltaický systém s bateriov
   * Napětí: 48 V
   * Výkon: 3000 VA
   * Provedení: 1f
+ 
+  * regulátor: https://www.abctech.cz/mppt-solarni-regulator-victron-energy-smartsolar-250-100-tr-ve-can_d39297.html
+  * měnič: https://www.abctech.cz/menic-nabijecka-victron-energy-multiplus-ii-48v-3000va-35a-32a_d39244.html
 
 ### Akumulace energie
 
@@ -32,11 +37,15 @@ Cílem tohoto projektu je navrhnout a popsat fotovoltaický systém s bateriov
 * Zapojení baterií: **paralelní**
 * Celková kapacita úložiště: **10,8 kWh**
 
+* baterie: https://www.fvtservis.cz/baterie-pylontech-us3000c-48v-3-6kwh--74-ah/
+
   ### Monitorování a řízení systému
-- 1× Victron Energy Cerbo GX MKII
-  - Funkce: centrální monitorování a řízení FV systému
-  - Sledování výroby, spotřeby a stavu baterií v reálném čase
-  - Možnost vzdáleného přístupu přes Victron Remote Management (VRM)
+* **1 ks** Victron Energy Cerbo GX MKII
+  * Funkce: centrální monitorování a řízení FV systému
+  * Sledování výroby, spotřeby a stavu baterií v reálném čase
+  * Možnost vzdáleného přístupu přes Victron Remote Management (VRM)
+    
+  * https://www.abctech.cz/victron-energy-cerbo-gx-mkii_d41479.html
 
 ### Další komponenty
 
