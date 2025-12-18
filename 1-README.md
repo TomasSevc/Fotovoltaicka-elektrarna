@@ -90,12 +90,18 @@ Cílem tohoto projektu je navrhnout a popsat fotovoltaický systém s bateriov
 * Paralelní zapojení baterií
 * Celková kapacita akumulace: **10,8 kWh**
 
-### 7. Rozvaděče a řízení výkonu
+### 7. Instalace a konfigurace monitorovací jednotky
+- Instalace Victron Energy Cerbo GX MKII v technické místnosti
+- Připojení ke střídačům, regulátorům a bateriovému úložišti
+- Konfigurace pro sledování výroby, spotřeby a stavu baterií v reálném čase
+- Nastavení vzdáleného přístupu přes portál Victron Remote Management (VRM) pro monitorování a řízení systému
+
+### 8. Rozvaděče a řízení výkonu
 
 * Osazení podružného rozvaděče FVE
 * Zajištění distribučního řízení výkonu výrobny
 
-### 8. Ochrana, revize a uvedení do provozu
+### 9. Ochrana, revize a uvedení do provozu
 
 * Zajištění ochrany a bezpečnosti provozu systému
 * Provedení výchozí revize
