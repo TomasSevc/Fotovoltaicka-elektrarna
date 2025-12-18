@@ -48,8 +48,8 @@ Cílem tohoto projektu je navrhnout a popsat fotovoltaický systém s bateriov
 
 ### 2. Montáž nosné konstrukce a panelů
 
-* Instalace nosné konstrukce pro fotovoltaické panely
-* Osazení **24 ks** panelů IBC MonoSol 400 Wp
+* Instalace nosné konstrukce pro solární panely
+* Osazení **24 ks** solárních panelů IBC MonoSol 400 Wp
 * Celkový instalovaný výkon: **9,6 kWp**
 * Vodivé připojení konstrukce a rámů panelů na hlavní ochrannou pospojovací svorkovnici objektu (uzemnění a vyrovnání potenciálů)
 
