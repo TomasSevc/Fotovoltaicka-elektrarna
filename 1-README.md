@@ -157,9 +157,11 @@ Pro běžnou rodinnou domácnost se uvažuje průměrná denní spotřeba přibl
 
 Příklad výpočtu autonomie baterie:
 
-10,8 kWh / 12 kWh denní spotřeba ≈ 0,9 dne
+10,8 kWh / 10–15 kWh denní spotřeba ≈ 0,7 až 1,1 dne provozu bez podpory fotovoltaické výroby
 
-Bateriové úložiště tedy pokryje přibližně 1 den běžného provozu domácnosti.
+Využití bateriového úložiště závisí na aktuální spotřebě domácnosti a okamžité výrobě fotovoltaické elektrárny. Spotřeba se během dne mění podle provozu běžných spotřebičů (např. vaření, ohřev vody, pračka, elektronika).
+
+Kapacita baterií 10,8 kWh proto nepředstavuje pevně danou dobu napájení, ale orientační hodnotu, která se mění podle aktuálního zatížení.
 
 ---
 
