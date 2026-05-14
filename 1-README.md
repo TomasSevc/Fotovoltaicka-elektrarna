@@ -118,14 +118,6 @@ Cílem tohoto projektu je navrhnout a popsat fotovoltaický systém s bateriov
 
   # Doplňující části projektu fotovoltaického systému
 
-## Doporučené zdroje informací
-- Technická dokumentace Victron Energy
-- Technická dokumentace PylonTech
-- Portál Victron Remote Management
-- Normy a doporučení pro instalaci fotovoltaických systémů
-- Odborné články o fotovoltaice a bateriových úložištích
-- Vědomosti mého otce
----
 
 # Výpočty a dimenzování systému
 
@@ -249,6 +241,13 @@ Příčiny:
 - kontrola komunikace mezi zařízeními
 - diagnostika pomocí Victron Cerbo GX
 
+  ## Doporučené zdroje informací
+- Technická dokumentace Victron Energy
+- Technická dokumentace PylonTech
+- Portál Victron Remote Management
+- Normy a doporučení pro instalaci fotovoltaických systémů
+- Odborné články o fotovoltaice a bateriových úložištích
+- Vědomosti mého otce
 ---
 
 # Závěr
