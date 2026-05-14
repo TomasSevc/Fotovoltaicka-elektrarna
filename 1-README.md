@@ -208,7 +208,7 @@ Moderní systémy umožňují řízení přetoků a optimalizaci spotřeby energ
 
 ## Bezpečnost při montáži
 Při montáži fotovoltaického systému je nutné dodržovat:
-- práci ve výškách s použitím ochranných pomůcek
+- použití ochranných pomůcek při práci ve výškách
 - bezpečnost práce na elektrických zařízeních
 - používání vhodného nářadí a ochranných prostředků
 - správné odpojení systému při servisních pracích
