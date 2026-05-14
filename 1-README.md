@@ -121,6 +121,7 @@ Cílem tohoto projektu je navrhnout a popsat fotovoltaický systém s bateriov
 
 # Výpočty a dimenzování systému
 
+
 ## Výkon fotovoltaických panelů
 Použité panely:
 - 24× IBC MonoSol 400 Wp
