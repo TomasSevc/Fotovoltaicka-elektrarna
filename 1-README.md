@@ -116,6 +116,148 @@ Cílem tohoto projektu je navrhnout a popsat fotovoltaický systém s bateriov
 * Provedení výchozí revize
 * Uvedení fotovoltaické elektrárny do provozu
 
+  # Doplňující části projektu fotovoltaického systému
+
+## Doporučené zdroje informací
+- Technická dokumentace Victron Energy
+- Technická dokumentace PylonTech
+- Portál Victron Remote Management (VRM)
+- YouTube kanály zaměřené na fotovoltaické elektrárny a ostrovní systémy
+- Normy a doporučení pro instalaci fotovoltaických systémů
+- Odborné články o fotovoltaice a bateriových úložištích
+
+---
+
+# Výpočty a dimenzování systému
+
+## Výkon fotovoltaických panelů
+Použité panely:
+- 24× IBC MonoSol 400 Wp
+
+Výpočet celkového výkonu:
+
+24 × 400 Wp = 9600 Wp = 9,6 kWp
+
+Celkový instalovaný výkon fotovoltaické elektrárny je tedy 9,6 kWp.
+
+## Kapacita bateriového úložiště
+Použité baterie:
+- 3× PylonTech US3000C
+- Kapacita jedné baterie: 3,6 kWh
+
+Výpočet celkové kapacity:
+
+3 × 3,6 kWh = 10,8 kWh
+
+Celková kapacita bateriového úložiště je 10,8 kWh.
+
+## Odhad denní výroby energie
+Při dobrých podmínkách může fotovoltaický systém v letních měsících vyrobit přibližně:
+
+9,6 kWp × 5 h = 48 kWh za den
+
+V zimních měsících je výroba výrazně nižší kvůli kratším dnům a nižší intenzitě slunečního záření.
+
+## Výhody bateriového úložiště
+Bateriové úložiště umožňuje:
+- ukládání přebytečné energie
+- využití energie ve večerních hodinách
+- snížení odběru energie z distribuční sítě
+- částečnou energetickou nezávislost
+
+---
+
+# Zdůvodnění volby komponent
+
+## Fotovoltaické panely
+Byly zvoleny panely IBC MonoSol 400 Wp kvůli:
+- vysokému výkonu
+- dobré účinnosti
+- dlouhé životnosti
+- vhodnému poměru cena/výkon
+
+## Střídače Victron MultiPlus II
+Tyto střídače byly vybrány díky:
+- vysoké spolehlivosti
+- možnosti spolupráce s bateriovými systémy
+- možnosti záložního napájení
+- pokročilému monitorování systému
+
+## Baterie PylonTech US3000C
+Baterie byly zvoleny kvůli:
+- bezpečné technologii LiFePO4
+- dlouhé životnosti
+- možnosti paralelního rozšíření
+- komunikaci se systémem Victron
+
+---
+
+# Spotový trh a přetoky
+
+Spotový trh umožňuje nákup a prodej elektrické energie podle aktuální ceny elektřiny. Cena se během dne mění podle výroby a spotřeby energie.
+
+Přetoky vznikají v případě, kdy fotovoltaická elektrárna vyrábí více energie, než objekt aktuálně spotřebuje. Přebytečná energie může být:
+- uložena do baterií
+- dodána do distribuční sítě
+- omezena regulací výkonu
+
+Moderní systémy umožňují řízení přetoků a optimalizaci spotřeby energie podle aktuálních cen elektřiny.
+
+---
+
+# Bezpečnost práce a požární bezpečnost
+
+## Bezpečnost při montáži
+Při montáži fotovoltaického systému je nutné dodržovat:
+- práci ve výškách s použitím ochranných pomůcek
+- bezpečnost práce na elektrických zařízeních
+- používání vhodného nářadí a ochranných prostředků
+- správné odpojení systému při servisních pracích
+
+## Požární bezpečnost
+Fotovoltaický systém musí obsahovat:
+- správné jištění DC i AC části
+- přepěťové ochrany
+- kvalitní uzemnění
+- správně dimenzované kabely
+- možnost bezpečného odpojení systému
+
+Bateriové úložiště musí být umístěno v dobře větraném prostoru a instalováno podle požadavků výrobce.
+
+---
+
+# Možné problémy a jejich řešení
+
+## Přehřívání komponent
+Řešení:
+- dostatečné chlazení
+- správné umístění zařízení
+- pravidelná kontrola systému
+
+## Pokles výroby panelů
+Příčiny:
+- znečištění panelů
+- zastínění
+- poškození panelu
+
+Řešení:
+- pravidelné čištění panelů
+- kontrola stavu systému
+
+## Výpadek systému
+Řešení:
+- kontrola jištění
+- kontrola komunikace mezi zařízeními
+- diagnostika pomocí Victron Cerbo GX
+
+---
+
+# Závěr
+
+Fotovoltaický systém s bateriovým úložištěm představuje moderní způsob výroby elektrické energie z obnovitelných zdrojů. Díky akumulaci energie do baterií lze efektivně využívat vyrobenou energii i v době, kdy fotovoltaické panely nevyrábějí dostatek energie.
+
+Použitý systém Victron a baterie PylonTech umožňují spolehlivý provoz, monitorování a možnost dalšího rozšíření systému v budoucnosti. Projekt mi umožnil lépe pochopit návrh, zapojení a fungování fotovoltaických elektráren v praxi.
+
 ---
 **Poděkování**
 
