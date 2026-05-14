@@ -117,35 +117,52 @@ Cílem tohoto projektu je navrhnout a popsat fotovoltaický systém s bateriov
 * Uvedení fotovoltaické elektrárny do provozu
 
 
-# Výpočty a dimenzování systému
+# Energetické výpočty systému
 
-## Výkon fotovoltaických panelů
-Použité panely:
-- 24× IBC MonoSol 400 Wp
+## Instalovaný výkon fotovoltaické elektrárny
+Systém obsahuje 24 fotovoltaických panelů o výkonu 400 Wp.
 
 Výpočet celkového výkonu:
 
 24 × 400 Wp = 9600 Wp = 9,6 kWp
 
-Celkový instalovaný výkon fotovoltaické elektrárny je tedy 9,6 kWp.
+Instalovaný výkon systému je tedy 9,6 kWp.
+
+---
+
+## Odhad roční výroby elektrické energie
+Pro podmínky v České republice se uvažuje průměrná specifická výroba přibližně 950–1050 kWh na 1 kWp za rok.
+
+Použitý odhad:
+
+9,6 kWp × 1000 kWh/kWp/rok ≈ 9600 kWh/rok
+
+Roční výroba systému se pohybuje přibližně kolem 9,5–10 MWh elektrické energie.
+
+---
 
 ## Kapacita bateriového úložiště
-Použité baterie:
-- 3× PylonTech US3000C
-- Kapacita jedné baterie: 3,6 kWh
+Bateriový systém je tvořen třemi bateriemi o kapacitě 3,6 kWh.
 
 Výpočet celkové kapacity:
 
 3 × 3,6 kWh = 10,8 kWh
 
-Celková kapacita bateriového úložiště je 10,8 kWh.
+Celková využitelná kapacita bateriového úložiště je 10,8 kWh.
 
-## Odhad denní výroby energie
-Při dobrých podmínkách může fotovoltaický systém v letních měsících vyrobit přibližně:
+---
 
-9,6 kWp × 5 h = 48 kWh za den
+## Odhad denní spotřeby a autonomie systému
+Pro běžnou rodinnou domácnost se uvažuje průměrná denní spotřeba přibližně 10–15 kWh.
 
-V zimních měsících je výroba výrazně nižší kvůli kratším dnům a nižší intenzitě slunečního záření, také především při pokrytí solárních panelů sněhem.
+Příklad výpočtu autonomie baterie:
+
+10,8 kWh / 12 kWh denní spotřeba ≈ 0,9 dne
+
+Bateriové úložiště tedy pokryje přibližně 1 den běžného provozu domácnosti.
+
+---
+
 
 ## Výhody bateriového úložiště
 Bateriové úložiště umožňuje:
