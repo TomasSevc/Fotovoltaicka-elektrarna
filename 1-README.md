@@ -163,6 +163,42 @@ Bateriové úložiště tedy pokryje přibližně 1 den běžného provozu domá
 
 ---
 
+## Odhad denní výroby
+Výroba závisí na ročním období a intenzitě slunečního záření.
+
+- Letní podmínky: 4–6 h ekvivalentního plného slunce  
+- Zimní podmínky: 1–2 h ekvivalentního plného slunce  
+
+Příklad letního dne:
+
+9,6 kWp × 5 h ≈ 48 kWh/den
+
+Příklad zimního dne:
+
+9,6 kWp × 1,5 h ≈ 14 kWh/den
+
+---
+
+## Energetická bilance systému
+Při průměrné denní výrobě 26 kWh a spotřebě 12 kWh lze uvažovat:
+
+26 kWh − 12 kWh = 14 kWh přebytek
+
+Tento přebytek je využit pro:
+- nabíjení baterií
+- případné přetoky do distribuční sítě
+- pokrytí vyšší spotřeby v jiných dnech
+
+---
+
+## Účinnost systému
+Celková účinnost systému (ztráty na měniči, regulátorech a kabelech) se pohybuje přibližně:
+
+85–92 %
+
+Ztráty jsou způsobeny především přeměnou DC/AC a provozem elektroniky systému.
+
+---
 
 ## Výhody bateriového úložiště
 Bateriové úložiště umožňuje:
