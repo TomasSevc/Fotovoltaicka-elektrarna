@@ -116,9 +116,6 @@ Cílem tohoto projektu je navrhnout a popsat fotovoltaický systém s bateriov
 * Provedení výchozí revize
 * Uvedení fotovoltaické elektrárny do provozu
 
-  # Doplňující části projektu fotovoltaického systému
-  
-
 
 # Výpočty a dimenzování systému
 
