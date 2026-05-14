@@ -148,7 +148,7 @@ Při dobrých podmínkách může fotovoltaický systém v letních měsících 
 
 9,6 kWp × 5 h = 48 kWh za den
 
-V zimních měsících je výroba výrazně nižší kvůli kratším dnům a nižší intenzitě slunečního záření.
+V zimních měsících je výroba výrazně nižší kvůli kratším dnům a nižší intenzitě slunečního záření, také především při pokrytí solárních panelů sněhem.
 
 ## Výhody bateriového úložiště
 Bateriové úložiště umožňuje:
