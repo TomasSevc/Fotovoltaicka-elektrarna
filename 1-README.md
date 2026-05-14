@@ -211,7 +211,7 @@ Bateriové úložiště umožňuje:
 
 ---
 
-# Zdůvodnění volby komponent
+# Zdůvodnění volby komponentů
 
 ## Fotovoltaické panely
 Byly zvoleny panely IBC MonoSol 400 Wp kvůli:
